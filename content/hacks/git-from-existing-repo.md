@@ -1,6 +1,6 @@
 ---
 title: Initialize a Git Repository from an Existing Project
-tags: ['CSS']
+tags: ['Git']
 description: For when you've already started a project and want to start VC late
 url: https://kbroman.org/github_tutorial/pages/init.html
 ---
