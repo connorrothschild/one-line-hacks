@@ -48,7 +48,7 @@ export default {
       {
         hid: "og:image",
         property: "og:image",
-        content: "/social.png",
+        content: "https://connorrothschild.github.io/one-line-hacks/social.png",
       },
       {
         hid: "twitter:url",
@@ -69,10 +69,10 @@ export default {
       {
         hid: "twitter:image",
         name: "twitter:image",
-        content: "/social.png",
+        content: "https://connorrothschild.github.io/one-line-hacks/social.png",
       },
     ],
-    link: [{ rel: "icon", type: "image/png", href: "/favicon.png" }],
+    link: [{ rel: "icon", type: "image/png", href: "https://connorrothschild.github.io/one-line-hacks/favicon.png" }],
   },
 };
 </script>
