@@ -50,6 +50,7 @@ export default {
   margin-top: 1rem;
 }
 
+/* purgecss ignore */
 code:not(.nuxt-content-highlight code) {
   background: #831843;
   color: white;
