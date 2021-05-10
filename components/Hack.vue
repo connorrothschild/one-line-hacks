@@ -51,7 +51,7 @@ export default {
 }
 
 /* purgecss ignore */
-code:not(.nuxt-content-highlight code) {
+code:not(.nuxt-content-highlight > pre > code) {
   background: #831843;
   color: white;
   padding: 0.25rem;
