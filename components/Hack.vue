@@ -82,4 +82,18 @@ pre[class*="language-"]:after {
 .language-css::after {
   content: "CSS";
 }
+
+blockquote {
+  border-left: .5rem solid #831843;
+  padding-left: .75rem;
+  margin-left: .5rem;
+  margin-top: 1rem;
+}
+
+blockquote p {
+  line-height: 1.35;
+  color: rgb(65, 65, 65);
+  font-size: .9rem;
+  max-width: 500px;
+}
 </style>

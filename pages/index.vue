@@ -15,7 +15,7 @@
     </div>
   </div>
       <footer class="bg-blue-200 p-6 w-full text-center font-light">
-        <a class="underline" href="https://www.connorrothschild.com/"
+        <a href="https://www.connorrothschild.com/"
           >Made by Connor Rothschild</a
         >
       </footer>

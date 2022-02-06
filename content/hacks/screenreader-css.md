@@ -1,5 +1,5 @@
 ---
-title: Hide an element only visually
+title: Hide an element, but only visually
 tags: ['CSS', 'Accessibility']
 description: Allow screen readers to access invisible content
 url: https://tailwindcss.com/docs/screen-readers
